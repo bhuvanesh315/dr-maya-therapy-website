@@ -86,7 +86,7 @@ export default function FAQs() {
           {/* Left image */}
           <div className="flex justify-center lg:justify-start">
             {/* ✅ responsive width (fills more space on big screens) */}
-            <div className="relative h-[420px] ml-10 w-full max-w-[450px] overflow-hidden rounded-t-[999px] lg:h-[550px]">
+            <div className="relative h-[420px] w-full max-w-[450px] overflow-hidden rounded-t-[999px] lg:h-[550px]">
               <Image
                 src="/faq.jpg"
                 alt="Frequently asked questions"
