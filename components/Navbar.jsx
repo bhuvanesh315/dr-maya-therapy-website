@@ -29,7 +29,7 @@ export default function Navbar() {
       <div className="bg-[#f6f0e9]/20 backdrop-blur-md">
         <div className="mx-auto flex max-w-[1400px] items-center justify-between px-5 py-5">
           <a className="text-[28px] font-semibold tracking-tight text-[#244126] transition-opacity hover:opacity-70" href="/">
-            Lilac Template
+            Maya Therapy
           </a>
 
           <nav className="flex items-center gap-10 text-[18px] font-medium text-[#244126]">
